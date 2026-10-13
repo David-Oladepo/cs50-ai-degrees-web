@@ -3,6 +3,16 @@
 An interactive web application that finds the shortest connection between two actors through films they have appeared in together.
 
 **[▶ Play the Live Demo](https://david-oladepo.github.io/cs50-ai-degrees-web/)**
+## Screenshots
+
+### Game Interface
+
+![Degrees of Separation game interface](degrees-homepage.png)
+
+### Shortest-Path Search Result
+
+![Degrees of Separation search result](degrees-search-result.png)
+
 
 ## Overview
 
