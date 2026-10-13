@@ -560,7 +560,7 @@
 
       while (queue.length > 0) {
         const current = queue.shift();
-        const films = actorMovies.get(current) || [];
+        const films = actorMovies.get(normalize(current)) || [];
 
         for (const film of films) {
           for (const coStar of film.cast) {
